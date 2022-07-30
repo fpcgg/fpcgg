@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fpcgg
 - 👀 I’m interested in mangas, movies, animes, series and code of course!
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently learning Python, SQL and R
 - 💞️ I’m looking to collaborate on open source programs in the near future
 - 📫 How to reach me https://www.linkedin.com/in/fenicio-porto-carvalho-gullo-giglio-790b251b4/
 
